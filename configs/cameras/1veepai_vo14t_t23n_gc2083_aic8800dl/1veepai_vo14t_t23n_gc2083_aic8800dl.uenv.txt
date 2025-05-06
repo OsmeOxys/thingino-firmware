@@ -1,0 +1,10 @@
+gpio_default=6i 14i 18O 43O 45i 50o 54O 59i 61o 63o
+gpio_gc2083_reset=18O
+gpio_mmc_power=43O
+gpio_mmc_cd=59i
+gpio_sysfs=6i
+gpio_sysfs=14i
+gpio_sysfs=45i
+gpio_sysfs=54O
+gpio_sysfs=61o
+gpio_sysfs=63o
